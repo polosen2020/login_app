@@ -1,0 +1,3 @@
+Extra information about this project
+
+start this server by the command npm run devStart 
